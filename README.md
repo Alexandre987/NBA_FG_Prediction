@@ -1,6 +1,6 @@
 # project_02
 
-Looked for a correlation between **World Happiness Index** and **Perceptions of Corruption** in 2018
+Look for predictive correlations of Boston's FG% based on the team's performance, their opponents' performance in the same game, and outside factors (like weather, and Boston's GDP).
 
 Skills practiced:
 - Web scraping
