@@ -1,8 +1,8 @@
 # project_02
 
-Look for predictive correlations of Boston's FG% based on the team's performance, their opponents' performance in the same game, and outside factors (like weather, and Boston's GDP).
+Attempted to predict Boston's FG% within each game without looking at Boston's scoring metrics. Guessed correctly with a MAE of 2.5%.
 
-Skills practiced:
+Methods used:
 - Web scraping
 - Linear Regression
-- Iterative Project Design
+- Regularization (ElasticNet)
